@@ -4,7 +4,7 @@ exposures:
   - name: Executive Dashboard
     type: dashboard
     maturity: low
-    url: https://7e942fbd.us2a.app.preset.io:443/r/2
+    url: https://cf7ba744.us2a.app.preset.io/superset/dashboard/p/8XQ3Z0M9gV1/
     description: Executive Dashboard about Airbnb listings and hosts
 
     depends_on:
